@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hey there! I'm Dhananjay, a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a knack for crafting robust, scalable, and user-friendly web applications.
-</h1>
+<h1 align="center">👋 Hey there! I'm Dhananjay</h1>
+<p> a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a knack for crafting robust, scalable, and user-friendly web applications.
+</p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djthap" alt="djthap" /></a> </p>
